@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hello world</string>
+    <string name="red_btn">red button</string>
+    <string name="green_btn">green button</string>
 </resources>
